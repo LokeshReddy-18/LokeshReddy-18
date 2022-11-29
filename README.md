@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm LOKESH REDDY</h1>
 <h3 align="center">An Undergrad at MLR Institute of Technology, with good technical skills, a firm grasp of business needs, and an understanding of user requirements. Excellent communication and planning abilities. Acquiring programming skills in Data Science with a focus on python. Currently looking for opportunities in Data Science, especially where my strength in picking up new technologies as well as being able to add value to the business and team.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshreddy-18&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshreddy-18" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lokeshreddy_18" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshreddy_18?logo=twitter&style=for-the-badge" alt="lokeshreddy_18" /></a> </p>
 
 - 🔭 I’m currently working on **Developing ML Models**
 
