@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://lokeshreddy-18.github.io/)
 
 <h1 align="center">Hi 👋, I'm LOKESH REDDY</h1>
-<h3 align="center">An Undergrad at MLR Institute of Technology, with good technical skills, a firm grasp of business needs, and an understanding of user requirements. Excellent communication and planning abilities. Acquiring programming skills in Data Science with a focus on python. Currently looking for opportunities in Data Science, especially where my strength in picking up new technologies as well as being able to add value to the business and team.</h3>
+<h3 align="center">Grad at University at Buffalo, with good technical skills, a firm grasp of business needs, and an understanding of user requirements. Excellent communication and planning abilities. Acquiring programming skills in Data Science with a focus on python. Currently looking for opportunities in Data Science, especially where my strength in picking up new technologies as well as being able to add value to the business and team.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 
