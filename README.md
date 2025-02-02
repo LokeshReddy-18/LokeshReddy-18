@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm LOKESH REDDY</h1>
 <h3 align="center">Data Engineer with over 2 years of experience in designing and optimizing data pipelines, focusing on big data processing and efficient workflow automation. Skilled in leveraging Python and PySpark for large-scale data processing, advanced SQL for querying and optimization, and data modeling for building scalable solutions. Proven ability to automate workflows, ensure data quality, and deliver high-performance data solutions that support business insights and decision-making.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/LokeshReddy-18/LokeshReddy-18/blob/main/IMG_9731.jpghttps://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/LokeshReddy-18/LokeshReddy-18/main/IMG_9731.jpg">
 
 
 - 🔭 I’m currently working on **Developing scalable data pipelines, optimizing big data workflows, and building real-time data processing systems**  
