@@ -1,23 +1,16 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://lokeshreddy-18.github.io/)
 
 <h1 align="center">Hi 👋, I'm LOKESH REDDY</h1>
-<h3 align="center">Grad at University at Buffalo, with good technical skills, a firm grasp of business needs, and an understanding of user requirements. Excellent communication and planning abilities. Acquiring programming skills in Data Science with a focus on python. Currently looking for opportunities in Data Science, especially where my strength in picking up new technologies as well as being able to add value to the business and team.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<h3 align="center">Data Engineer with over 2 years of experience in designing and optimizing data pipelines, focusing on big data processing and efficient workflow automation. Skilled in leveraging Python and PySpark for large-scale data processing, advanced SQL for querying and optimization, and data modeling for building scalable solutions. Proven ability to automate workflows, ensure data quality, and deliver high-performance data solutions that support business insights and decision-making.</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/LokeshReddy-18/LokeshReddy-18/blob/main/IMG_9731.jpghttps://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 
-- 🔭 I’m currently working on **Developing ML Models**
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and Advanced Database Desgin Concepts**
-
-- 👯 I’m looking to collaborate on **Machine Learning and Data Science**
-
-- 🤝 I’m looking for help with **Numpy, Pandas and Matplotlib**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **lokeshreddy.lingala18@gmail.com**
-
-- ⚡ Fun fact **I love exploring new things**
+- 🔭 I’m currently working on **Developing scalable data pipelines, optimizing big data workflows, and building real-time data processing systems**  
+- 🌱 I’m currently learning **Advanced data warehousing concepts, optimizing distributed systems, and integrating machine learning with data pipelines**  
+- 👯 I’m looking to collaborate on **Big Data Engineering, Data Warehousing, Data Infrastructure and Distributed Data Processing**   
+- 💬 Ask me about **Python, PySpark, SQL, and Data Pipeline Automation**  
+- 📫 How to reach me **lokeshreddy.lingala18@gmail.com**  
+- ⚡ Fun fact **I’m passionate about building efficient, scalable data solutions that drive business insights**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +22,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshreddy-18&" alt="lokeshreddy-18" /></p>
+<p align="left">
+  Python, Pyspark, SQL, HiveQL, Java, HTML, CSS, R, C Programming, 
+  Redshift, Snowflake, Iceberg, BigQuery, PostgreSQL, MySQL, DynamoDB, MongoDB, 
+  AWS Services: S3, Glue, Lambda, EC2, Athena, RDS, EMR, Kinesis, DMS, 
+  Pandas, Trino, Power BI, Kafka, Spark, Airflow, Flink, Git, dbt, Docker, VS Code
+</p>
